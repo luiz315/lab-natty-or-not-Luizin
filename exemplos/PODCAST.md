@@ -14,7 +14,7 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo o unive
 ## 🚀 Resultados
 O episódio é uma contextualização introdutória do universo Snoopy e sua importancia na sociedade e na cultura de sua época.
 
-[https://share.descript.com/view/sWYNNdNzOUR]()
+<a href="https://share.descript.com/view/sWYNNdNzOUR">Link do Podcast</a>
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.

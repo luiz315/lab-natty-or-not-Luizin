@@ -14,7 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida sobre a historia e importancia do Snoopy, destacando seu potencial transformador.
 
-[https://studio.d-id.com/share?id=3428a65a89580ca2bb91b1d48d9eec40&utm_source=copy]()
+<a href="https://studio.d-id.com/share?id=3428a65a89580ca2bb91b1d48d9eec40&utm_source=copy">Link do Video</a>
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.

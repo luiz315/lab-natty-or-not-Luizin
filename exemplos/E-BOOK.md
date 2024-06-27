@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre o Snoopy seu legado e sua
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como o Snoopy Mudou e rovolucionou todo o universo de animações.
 
-[https://1drv.ms/p/s!Ah0l4fi6KIcCi2YUNX9FNwsJHaKZ?e=4eszcq&nav=eyJzSWQiOjI1NiwiY0lkIjozMjg5MjE4MTkyfQ]()
+<a href="https://1drv.ms/p/s!Ah0l4fi6KIcCi2YUNX9FNwsJHaKZ?e=4eszcq&nav=eyJzSWQiOjI1NiwiY0lkIjozMjg5MjE4MTkyfQ">Link do E-book<a/>
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
